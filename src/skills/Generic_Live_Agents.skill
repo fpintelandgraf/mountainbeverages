@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skill xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assignments>
+        <profiles>
+            <profile>Admin</profile>
+        </profiles>
+        <users>
+            <user>bservice.7kothr8kgvl7.tp80oh9y8fy7.n9vklvz6twvt@example.com</user>
+            <user>jservice.qylqih8eaqic.lnvttntvvmjm.kajlcag5vco2@example.com</user>
+            <user>lservice.riurrylxzsvv.ep8fcfwl3zco.u6oggxwhzlby@example.com</user>
+            <user>oorder.kopepwy43dxw.qiyxpcqax61q.cfoif78ckamy@example.com</user>
+            <user>admin-kuhnk4qkhgcx@example.com</user>
+            <user>sservice.gb2rzsnqpvsr.zquqapa8uzc2.zdf0utubakqh@example.com</user>
+            <user>tservice.tpeh3jbiv5v9.fi5v1rab4aip.6ae7bwe626ir@example.com</user>
+        </users>
+    </assignments>
+    <label>Generalist Agents</label>
+</Skill>

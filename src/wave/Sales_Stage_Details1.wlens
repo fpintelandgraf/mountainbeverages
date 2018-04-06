@@ -1,0 +1,1 @@
+{"query":{"query":"{\"measures\":[[\"count\",\"*\"]],\"groups\":[\"StageNamePrev\",\"StageName\"],\"filters\":[[\"Stage_isUpdated\",[\"1\"],\"in\"]]}","version":-1.0}}
