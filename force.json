@@ -14,6 +14,6 @@
     "username": "florin@mountainbeverages.demo",
     "password": "salesforce1",
     "url": "https://login.salesforce.com",
-    "autoCompile": false,
+    "autoCompile": true,
     "src": "src"
 }
